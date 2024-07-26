@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-      <Hero imgData="/Home.jpg" imgAlt="Home" title="Welcome to My Site" />
+      <Hero imgData="/home.jpg" imgAlt="Home" title="Welcome to My Site" />
     </>
   );
 }
