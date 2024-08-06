@@ -1,6 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 ## Getting Started
+
+Here i have  simply sed  the  next  built  in file  based router  to  add  routes and  image component with typescript  interface props.
 
 First, run the development server:
 
